@@ -1,0 +1,18 @@
+{
+  "name": "generator-qmlweb",
+  "version": "0.1.0",
+  "description": "A Yeoman powered qmlweb project generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
